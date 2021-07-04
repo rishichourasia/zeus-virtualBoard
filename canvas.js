@@ -21,15 +21,13 @@ function changeBackground(colour) {
 	canvas.style.backgroundColor = initialBackground;
 }
 ///side nav script
-// function openNav() {
-// 	document.getElementById("mySidenav").style.width = "250px";
-// 	document.getElementById("main").style.marginLeft = "250px";
-// }
+function openNav() {
+	document.getElementById("mySidenav").style.width = "250px";
+}
 
-// function closeNav() {
-// 	document.getElementById("mySidenav").style.width = "0";
-// 	document.getElementById("main").style.marginLeft = "0";
-// }
+function closeNav() {
+	document.getElementById("mySidenav").style.width = "0";
+}
 
 window.addEventListener("load", () => {
 	const canvas = document.getElementById("canvas");
