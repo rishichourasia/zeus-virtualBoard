@@ -117,3 +117,4 @@ downloadBtn.addEventListener("click", () => {
 		.replace("image/jpeg", "image/octet-stream");
 	downloadAnchor.setAttribute("href", imgUrl);
 });
+////download fucntion ends
