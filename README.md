@@ -1,2 +1,2 @@
-# This is a hackathon project is made using Vanilla Javascript ♥ , Canvas API .
+# This is a hackathon project made using Vanilla Javascript ♥ , Canvas API .
 
